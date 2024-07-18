@@ -1,0 +1,8 @@
+First, calculate how much money you would receive and the other player would receive. Then, decide whether or not to accept or reject the offer.
+
+Please answer in the following format:
+Calculation: {calculation}
+Decision: {accept/reject}
+Reason: {reason you made that decision}
+I receive: {amount as an integer, formatted with a dollar sign in front and nothing else before or after the integer}
+The other player receives: {amount as an integer, formatted with a dollar sign in front and nothing else before or after the integer}

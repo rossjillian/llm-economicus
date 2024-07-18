@@ -1,0 +1,4 @@
+When answering, copy the exact phrase of the option you choose, including the letters at the beginning if applicable. You cannot ask any follow-up questions.
+
+Please answer in the following format. Do not deviate from the format, and do not add any additional words to your response outside of the format:
+Answer: {exact phrase of option you choose}

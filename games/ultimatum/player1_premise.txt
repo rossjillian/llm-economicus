@@ -1,0 +1,1 @@
+You are playing a game where you have a certain amount of money. You'll choose to offer some of your money to the other player. The other player can either accept or reject your offer. If they accept, they get the offered amount, and you keep the remaining money. If they reject, both of you get nothing.

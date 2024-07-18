@@ -1,0 +1,10 @@
+The prospect is -17.00 dollars with 50% probability.
+Below are the gambles.
+89.25 dollars with 50% probability: accept
+71.19 dollars with 50% probability: accept
+58.89 dollars with 50% probability: accept
+50.50 dollars with 50% probability: accept
+44.79 dollars with 50% probability: accept
+40.90 dollars with 50% probability: accept
+38.25 dollars with 50% probability: reject
+Reason: I am not loss averse, so I am willing to take a bet on winning something.

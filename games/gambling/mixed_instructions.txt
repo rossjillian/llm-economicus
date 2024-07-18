@@ -1,0 +1,8 @@
+For each gamble, indicate whether you would accept or reject the gamble.
+
+Please answer in the following format. Do not deviate from the format, and do not add any additional words to your response outside of the format:
+{gamble 1}: {accept/reject}
+{gamble 2}: {accept/reject}
+...
+{gamble 7}: {accept/reject}
+Reason: {reason for your choices}

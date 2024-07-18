@@ -1,0 +1,5 @@
+First, decide how much to offer. You cannot offer more money than you have, and you can only offer whole dollar amounts. Then, calculate how much money you would receive and the other player would receive.
+
+Please answer in the following format:
+Offer: {offer as an integer, formatted with a dollar sign in front and nothing else before or after the integer}
+Reason: {reason you chose that offer}

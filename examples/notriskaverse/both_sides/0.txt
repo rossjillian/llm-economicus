@@ -1,0 +1,21 @@
+The prospect is 7.00 dollars with 5% probability and 17.00 dollars with 95% probability. The expected value of the prospect is 16.50 dollars.
+Below are the alternative sure outcomes.
+17.00 dollars with 100% probability: accept
+13.46 dollars with 100% probability: reject
+11.05 dollars with 100% probability: reject
+9.40 dollars with 100% probability: reject
+8.28 dollars with 100% probability: reject
+7.52 dollars with 100% probability: reject
+7.00 dollars with 100% probability: reject
+Reason: I am not risk averse, so I prefer all certain gains that are larger than the expected gain of the prospect.
+
+The prospect is -7.00 dollars with 5% probability and -17.00 dollars with 95% probability. The expected value of the prospect is 16.50 dollars.
+Below are the alternative sure outcomes.
+-7.00 dollars with 100% probability: accept
+-7.52 dollars with 100% probability: accept
+-8.28 dollars with 100% probability: accept
+-9.40 dollars with 100% probability: accept
+-11.05 dollars with 100% probability: accept
+-13.46 dollars with 100% probability: accept
+-17.00 dollars with 100% probability: reject
+Reason: Risk aversion doesn't affect my loss aversion, so I choose according to expected value.

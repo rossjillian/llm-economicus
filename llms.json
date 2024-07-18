@@ -1,0 +1,58 @@
+{
+  "Llama-2-7b-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "base"
+  },
+  "Llama-2-7b-chat-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "instruct"
+  },
+  "Llama-2-13b-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "base"
+  },
+  "Llama-2-13b-chat-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "instruct"
+  },
+  "Llama-2-70b-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "base"
+  },
+  "Llama-2-70b-chat-hf": {
+    "hf_name": "meta-llama",
+    "model_type": "instruct"
+  },
+  "Llama-2-7B-Chat-GPTQ": {
+    "hf_name": "TheBloke",
+    "model_type": "instruct"
+  },
+  "Llama-2-13B-Chat-GPTQ": {
+    "hf_name": "TheBloke",
+    "model_type": "instruct"
+  },
+  "Llama-2-70B-Chat-GPTQ": {
+    "hf_name": "TheBloke",
+    "model_type": "instruct"
+  },
+  "Mistral-7B-Instruct-v0.1": {
+    "hf_name": "mistralai",
+    "model_type": "instruct"
+  },
+  "Mistral-7B-Instruct-v0.1-GPTQ": {
+    "hf_name": "TheBloke",
+    "model_type": "instruct"
+  },
+  "gpt-3.5-turbo-0613": {
+    "hf_name": "",
+    "model_type": "instruct"
+  },
+  "gpt-4": {
+    "hf_name": "",
+    "model_type": "instruct"
+  },
+  "gpt-4-0125-preview": {
+    "hf_name": "",
+    "model_type": "instruct"
+  }
+}

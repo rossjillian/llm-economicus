@@ -1,0 +1,1 @@
+You are given a potential loss and a set of potential gains. Each loss and gain pair is individual gamble that is played together. You will evaluate each gamble one-by-one. If you reject the gamble, you will not gain or lose anything. If you accept the gamble, you will play the gamble.

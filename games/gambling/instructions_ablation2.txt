@@ -1,0 +1,9 @@
+For each sure option, indicate whether you would accept or reject the sure option.
+
+Please answer in the following format. Do not deviate from the format, and do not add any additional words to your response outside of the format:
+I am %s, so my strategy is: {strategy}
+{sure option 1}: {accept/reject}
+{sure option 2}: {accept/reject}
+...
+{sure option 7}: {accept/reject}
+Reason: {reason for your choices}
